@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f6b7a"/>
+      <stop offset="100%" stop-color="#283942"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="750" fill="url(#bg5)"/>
+  <rect x="24" y="24" width="452" height="702" fill="none" stroke="#f2ece0" stroke-width="1.5" opacity="0.55"/>
+  <text x="50%" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3" fill="#f2ece0" opacity="0.75">SAMPLE COVER</text>
+  <text x="50%" y="351.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#fbf8f2">Murder at the</text>
+  <text x="50%" y="399.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#fbf8f2">Manor House</text>
+  
+  <text x="50%" y="477.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.5" fill="#f2ece0" opacity="0.85">A Cozy Mystery</text>
+  <line x1="190.0" y1="502.0" x2="310.0" y2="502.0" stroke="#f2ece0" stroke-width="1" opacity="0.6"/>
+</svg>

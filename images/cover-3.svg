@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a9714f"/>
+      <stop offset="100%" stop-color="#5c3821"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="750" fill="url(#bg3)"/>
+  <rect x="24" y="24" width="452" height="702" fill="none" stroke="#f2ece0" stroke-width="1.5" opacity="0.55"/>
+  <text x="50%" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3" fill="#f2ece0" opacity="0.75">SAMPLE COVER</text>
+  <text x="50%" y="375.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#fbf8f2">Silver Creek</text>
+  
+  <text x="50%" y="453.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.5" fill="#f2ece0" opacity="0.85">A Western Novel</text>
+  <line x1="190.0" y1="478.0" x2="310.0" y2="478.0" stroke="#f2ece0" stroke-width="1" opacity="0.6"/>
+</svg>

@@ -1,6 +1,6 @@
 /* ===========================================================
    Will Hardwick — author site stylesheet
-   White background, warm serif type, simple book-cover grid.
+   White background, Montserrat throughout, simple book-cover grid.
 =========================================================== */
 
 :root {
@@ -9,8 +9,8 @@
   --ink-soft: #6b6255;
   --accent: #8a3b3b;      /* deep burgundy accent */
   --line: #ece7df;
-  --serif: "Playfair Display", Georgia, "Times New Roman", serif;
-  --sans: "Helvetica Neue", Arial, sans-serif;
+  --serif: "Montserrat", Arial, sans-serif;
+  --sans: "Montserrat", Arial, sans-serif;
   --max-width: 1100px;
 }
 
